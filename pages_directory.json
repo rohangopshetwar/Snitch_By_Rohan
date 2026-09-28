@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "filename": "index.html",
+    "title": "SNITCH - Online Men's Fashion Store",
+    "url": "https://www.snitch.com/",
+    "type": "Homepage",
+    "category": "Home"
+  },
+  {
+    "id": 2,
+    "filename": "shop.html",
+    "title": "Shop All Men's Clothing - SNITCH",
+    "url": "https://www.snitch.com/shop",
+    "type": "Shop page",
+    "category": "Catalog"
+  },
+  {
+    "id": 3,
+    "filename": "black-self-design-knitted-shirt.html",
+    "title": "Black Self Design Knitted Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/black-self-design-knitted-shirt-4mss3684-01/8517377589410/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1499,
+    "mrp": 2199,
+    "sku": "4MSS3684-01",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/4MSS1813-10-M2737_85b2534e-7886-4fcb-8da4-4d105eccf6a5.jpg?v=1682191059",
+    "desc": "Step out in effortless style with this Black Self Design Knitted Shirt. Tailored in a modern textured waffle knit with breathable fabric."
+  },
+  {
+    "id": 4,
+    "filename": "blue-button-down-regular-fit-shirt.html",
+    "title": "Blue Button Down Regular Fit Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/blue-button-down-regular-fit-shirt-4mbgss1036-01/8542294442146/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1199,
+    "mrp": 1699,
+    "sku": "4MBGSS1036-01",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/4MSS1813-09-M3372_fd0fc4d3-6632-4afd-8068-415dbb21536c.jpg?v=1682190902",
+    "desc": "Classic Oxford cotton button-down shirt in versatile royal blue. Ideal for daily office wear and weekend dinners."
+  },
+  {
+    "id": 5,
+    "filename": "grey-textured-slim-fit-shirt.html",
+    "title": "Grey Textured Slim Fit Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/grey-textured-slim-fit-shirt-4mss3699-03/8560037789858/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1299,
+    "mrp": 1799,
+    "sku": "4MSS3699-03",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Snitch_Feb3rd_22_4193.jpg?v=1644564601",
+    "desc": "Elevate your semi-formal wardrobe with this Grey Textured Slim Fit Shirt made from stretch cotton blend."
+  },
+  {
+    "id": 6,
+    "filename": "oblong-white-shirt.html",
+    "title": "Oblong White Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/oblong-white-shirt-1/6092686295202/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1099,
+    "mrp": 1599,
+    "sku": "6092686295202",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/4MSS1813-01-M2598_c4e5af2e-0668-4269-afc7-0d8323eebce5.jpg?v=1682190399",
+    "desc": "Crisp, timeless, and impeccably structured white shirt featuring reinforced seams and clean mother-of-pearl buttons."
+  },
+  {
+    "id": 7,
+    "filename": "mufasa-lion-white-shirt.html",
+    "title": "Mufasa Lion White Printed Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/mufasa-lion-white-shirt/6554074710178/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1399,
+    "mrp": 1999,
+    "sku": "6554074710178",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Snitch_Feb3rd_22_4069.jpg?v=1764740571",
+    "desc": "Graphic statement resort shirt with bespoke lion motif printing and airy rayon construction for beach vibes."
+  },
+  {
+    "id": 8,
+    "filename": "100-cotton-regular-fit-shirt.html",
+    "title": "100% Cotton Regular Fit Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/100-cotton-regular-fit-shirt-4sfs003-08/9270032826530/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1199,
+    "mrp": 1599,
+    "sku": "4SFS003-08",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Snitch_Feb3rd_22_3994.jpg?v=1764661072",
+    "desc": "Pure natural ring-spun cotton full-sleeve regular fit shirt. Breathable, soft to skin, and durable."
+  },
+  {
+    "id": 9,
+    "filename": "sequins-navy-shirt.html",
+    "title": "Sequins Navy Partywear Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/sequins-navy-shirt/7894187704482/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1799,
+    "mrp": 2499,
+    "sku": "7894187704482",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/4MSS1813-06-M70_e0a08c5b-84a9-4e11-9a2e-1004558a2bf6.jpg?v=1682190777",
+    "desc": "Exquisite dark navy evening shirt accented with subtle tonal sequins for parties and celebrations."
+  },
+  {
+    "id": 10,
+    "filename": "light-grey-checks-shirt.html",
+    "title": "Light Grey Checks Casual Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/light-grey-checks-shirt-4mss3066-02/8455283867810/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1299,
+    "mrp": 1799,
+    "sku": "4MSS3066-02",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Snitch_Feb3rd_22_4193.jpg?v=1644564601",
+    "desc": "Subtle grid checks in calm neutral grey, tailored in breathable cotton with a curved hemline."
+  },
+  {
+    "id": 11,
+    "filename": "white-solid-plus-size-shirt.html",
+    "title": "White Solid Plus Size Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/white-solid-regular-fit-plus-size-shirt-4mbgss1042-01/8564068810914/buy",
+    "type": "Product",
+    "category": "Plus Size",
+    "price": 1499,
+    "mrp": 2199,
+    "sku": "4MBGSS1042-01",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/4MSS1813-01-M2598_c4e5af2e-0668-4269-afc7-0d8323eebce5.jpg?v=1682190399",
+    "desc": "Specially proportioned plus-size regular fit shirt (3XL to 6XL) crafted from premium rich cotton."
+  },
+  {
+    "id": 12,
+    "filename": "dark-green-textured-snitch-luxe-shirt.html",
+    "title": "Dark Green Textured SNITCH LUXE Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/dark-green-textured-slim-fit-snitch-luxe-shirt-4mlx1021-02/8641202978978/buy",
+    "type": "Product",
+    "category": "Luxe",
+    "price": 1699,
+    "mrp": 2499,
+    "sku": "4MLX1021-02",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/4MSS1813-06-M70_e0a08c5b-84a9-4e11-9a2e-1004558a2bf6.jpg?v=1682190777",
+    "desc": "From the SNITCH LUXE capsule: rich emerald green jacquard texture with European tailoring."
+  },
+  {
+    "id": 13,
+    "filename": "blue-checks-slim-fit-shirt.html",
+    "title": "Blue Checks Slim Fit Shirt - SNITCH",
+    "url": "https://www.snitch.com/men-shirts/blue-checks-slim-fit-shirt-4mss3356-01/8528386883746/buy",
+    "type": "Product",
+    "category": "Shirts",
+    "price": 1199,
+    "mrp": 1699,
+    "sku": "4MSS3356-01",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/4MSS1813-09-M3372_fd0fc4d3-6632-4afd-8068-415dbb21536c.jpg?v=1682190902",
+    "desc": "Sharp micro-check pattern in dual-tone blue. Enhances silhouette with comfortable slim cut."
+  },
+  {
+    "id": 14,
+    "filename": "six-pockets-baggy-cargo-pants.html",
+    "title": "Six Pockets Baggy Cargo Pants - SNITCH",
+    "url": "https://www.snitch.com/men-cargo-pants/six-pockets-baggy-cargo-pants-4mso4681-04/8736463978658/buy",
+    "type": "Product",
+    "category": "Cargos",
+    "price": 2199,
+    "mrp": 2999,
+    "sku": "4MSO4681-04",
+    "img": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_e4047129-3465-42c5-9697-695fbeca9e80.jpg?v=1787507274",
+    "desc": "Heavyweight utility twill cargo pants with 6 reinforced pockets and relaxed wide-leg drape."
+  },
+  {
+    "id": 15,
+    "filename": "about-us.html",
+    "title": "About Us - The SNITCH Story",
+    "url": "https://www.snitch.com/about-us",
+    "type": "Static page",
+    "category": "Company"
+  },
+  {
+    "id": 16,
+    "filename": "search-snitch.html",
+    "title": "Search Products - SNITCH",
+    "url": "https://www.snitch.com/search/Snitch",
+    "type": "Search page",
+    "category": "Search"
+  },
+  {
+    "id": 17,
+    "filename": "plus-search.html",
+    "title": "Plus Size Collection Search - SNITCH",
+    "url": "https://www.snitch.com/plus-search",
+    "type": "Search page",
+    "category": "Plus Size"
+  },
+  {
+    "id": 18,
+    "filename": "lucky-size-store.html",
+    "title": "Men's Lucky Size Store (Upto 60% OFF) - SNITCH",
+    "url": "https://www.snitch.com/men-lucky-size-store/314582007970/buy",
+    "type": "Collection",
+    "category": "Sale"
+  },
+  {
+    "id": 19,
+    "filename": "sitemap.html",
+    "title": "Sitemap Master Index - SNITCH",
+    "url": "https://www.snitch.com/sitemap.xml",
+    "type": "Sitemap",
+    "category": "Sitemaps"
+  },
+  {
+    "id": 20,
+    "filename": "sitemap-products-1.html",
+    "title": "Products Sitemap Part 1 - SNITCH",
+    "url": "https://www.snitch.com/sitemap-products-1.xml",
+    "type": "Sitemap",
+    "category": "Sitemaps"
+  },
+  {
+    "id": 21,
+    "filename": "sitemap-products-2.html",
+    "title": "Products Sitemap Part 2 - SNITCH",
+    "url": "https://www.snitch.com/sitemap-products-2.xml",
+    "type": "Sitemap",
+    "category": "Sitemaps"
+  },
+  {
+    "id": 22,
+    "filename": "sitemap-collections.html",
+    "title": "Collections Sitemap - SNITCH",
+    "url": "https://www.snitch.com/sitemap-collections.xml",
+    "type": "Sitemap",
+    "category": "Sitemaps"
+  },
+  {
+    "id": 23,
+    "filename": "sitemap-categories.html",
+    "title": "Categories Sitemap - SNITCH",
+    "url": "https://www.snitch.com/sitemap-categories.xml",
+    "type": "Sitemap",
+    "category": "Sitemaps"
+  },
+  {
+    "id": 24,
+    "filename": "sitemap-static-pages.html",
+    "title": "Static Pages Sitemap - SNITCH",
+    "url": "https://www.snitch.com/sitemap-static-pages.xml",
+    "type": "Sitemap",
+    "category": "Sitemaps"
+  },
+  {
+    "id": 25,
+    "filename": "contact-us.html",
+    "title": "Contact & Customer Support - SNITCH",
+    "url": "https://www.snitch.com/contact-us",
+    "type": "Static page",
+    "category": "Company"
+  }
+]

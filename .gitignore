@@ -1,0 +1,7 @@
+*.zip
+*.zip.zip
+*.bak
+*.py
+debug_*
+.DS_Store
+Thumbs.db
